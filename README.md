@@ -7,7 +7,7 @@ Dieses kleine Python Programm ist ein Grundgerüst, um Kontoauszüge vom CSV Exp
 
 
 ## Anwendung
-Ist Python installiert kann das Programm im Verizeichnis der Auszüge laufen gelassen werden. Es erstellt Kopien der Auszüge für DATEV:
+Ist Python installiert, kann das Programm im Verzeichnis der Auszüge laufen gelassen werden. Es erstellt Kopien der Auszüge für DATEV:
 Beispiel:
 n26-csv-transactions-bis-2023-11.csv (Export von N26)
 n26-csv-transactions-bis-2023-11_datev.csv (Kopie im Datev Format)
